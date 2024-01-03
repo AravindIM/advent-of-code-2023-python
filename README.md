@@ -1,2 +1,5 @@
-# advent-of-code-2023-python
-My attempt in solving advent of code 2023 with python
+# Advent of code 2023 python
+My attempt at Advent Of Code 2023 in Ocaml
+
+## License
+Unlicensed License
